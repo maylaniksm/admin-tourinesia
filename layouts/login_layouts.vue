@@ -4,3 +4,8 @@
     <Nuxt />
   </div>
 </template>
+<style scoped>
+  html {
+    height: 100%;
+  }
+</style>
