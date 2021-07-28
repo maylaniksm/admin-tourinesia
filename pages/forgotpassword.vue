@@ -2,7 +2,7 @@
     <div>
         <div class="container-fluid">
             <div class="row justify-content-center">
-                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-9" style="position: absolute; top: 25%; left: 25%;">
+                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-9" style="position: absolute; top: 25%;">
                     <div class="card o-hidden border-3 shadow-lg my-3">
                         <div class="card-body p-0">
                             <div class="row">
