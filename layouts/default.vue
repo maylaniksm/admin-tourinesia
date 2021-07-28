@@ -17,39 +17,39 @@
         </sidebar-item>
         <sidebar-item
           :link="{
-            name: $t('sidebar.icons'),
+            name: $t('WISATA'),
             icon: 'tim-icons icon-atom',
-            path: '/icons'
+            path: '/wisata'
           }"
         >
         </sidebar-item>
         <sidebar-item
           :link="{
-            name: $t('sidebar.maps'),
+            name: $t('SOUVENIR'),
             icon: 'tim-icons icon-pin',
-            path: '/google'
+            path: '/souvenir'
           }"
         >
         </sidebar-item>
 
         <sidebar-item
           :link="{
-            name: $t('sidebar.notifications'),
+            name: $t('PENJUALAN'),
             icon: 'tim-icons icon-bell-55',
-            path: '/notifications'
+            path: '/jualtiket'
           }"
         >
         </sidebar-item>
 
         <sidebar-item
           :link="{
-            name: $t('sidebar.userProfile'),
+            name: $t('VIRTUAL TOUR'),
             icon: 'tim-icons icon-single-02',
-            path: '/user' }"
+            path: '/google' }"
         >
         </sidebar-item>
 
-        <sidebar-item
+        <!-- <sidebar-item
           :link="{
             name: $t('sidebar.regularTables'),
             icon: 'tim-icons icon-puzzle-10',
@@ -77,7 +77,7 @@
             <i class="tim-icons icon-spaceship"></i>
             <p>Upgrade to PRO</p>
           </a>
-        </li>
+        </li> -->
       </template>
     </side-bar>
     <!--Share plugin (for demo purposes). You can remove it if don't plan on using it-->
